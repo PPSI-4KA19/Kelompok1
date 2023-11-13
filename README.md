@@ -11,7 +11,7 @@
 
 🌱 We're currently learning:
 - Software Development
-- Frameworks
+- Framework
 - UI/UX Designs
 
 💬 Ask us about anything really...
