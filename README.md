@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hello There We're Kelompok 1</h1>
+<h1 align="center">Hello There👋...  We're Kelompok 1</h1>
 <h3 align="center">A Couple of College Students from Gunadarma</h3>
 <img align="right" alt="Coding" width="300" id="gif1" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
